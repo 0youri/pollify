@@ -1,3 +1,7 @@
+# Pollify
+
+Pollify is a simple polling app that allows users to create, vote, and view poll results in real-time.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
