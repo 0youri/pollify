@@ -47,13 +47,6 @@ Open [http://localhost:3000](http://localhost:3000) to access the app.
 - **Tailwind CSS** – Styling for a modern design.
 - **LocalStorage** – Stores poll data and votes locally.
 
-## Deployment
-To deploy Pollify, use:
-```bash
-vercel
-```
-Or check out the [Next.js deployment guide](https://nextjs.org/docs/deployment).
-
 ## Contributing
 Contributions are welcome! If you'd like to improve Pollify, feel free to submit a pull request.
 
